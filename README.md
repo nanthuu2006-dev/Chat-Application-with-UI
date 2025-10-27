@@ -21,4 +21,4 @@ Throughout development, various key features were implemented, including user re
 The final outcome of this project is a fully functional, responsive, and scalable real-time chat application, successfully deployed and maintained on GitHub. It demonstrates the seamless integration of frontend frameworks and cloud-based backend services to deliver an interactive web application that emphasizes performance, usability, and reliability.
 
 
-git clone https://github.com/raffrinnarmadh25/Chat-Application-with-UI
+git clone https://github.com/nanthuu2006-dev/Chat-Application-with-UI
